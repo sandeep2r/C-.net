@@ -1,0 +1,15 @@
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\bin\Debug\net6.0\EmpoyeeDay2c.exe
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\bin\Debug\net6.0\EmpoyeeDay2c.deps.json
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\bin\Debug\net6.0\EmpoyeeDay2c.runtimeconfig.json
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\bin\Debug\net6.0\EmpoyeeDay2c.dll
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\bin\Debug\net6.0\EmpoyeeDay2c.pdb
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.csproj.AssemblyReference.cache
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.GeneratedMSBuildEditorConfig.editorconfig
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.AssemblyInfoInputs.cache
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.AssemblyInfo.cs
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.csproj.CoreCompileInputs.cache
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.dll
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\refint\EmpoyeeDay2c.dll
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.pdb
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\EmpoyeeDay2c.genruntimeconfig.cache
+D:\sandeep C# .net\EmpoyeeDay2c\EmpoyeeDay2c\obj\Debug\net6.0\ref\EmpoyeeDay2c.dll

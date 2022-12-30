@@ -1,0 +1,15 @@
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\bin\Debug\net6.0\EmployeeDay2(empid auto generate).exe
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\bin\Debug\net6.0\EmployeeDay2(empid auto generate).deps.json
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\bin\Debug\net6.0\EmployeeDay2(empid auto generate).runtimeconfig.json
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\bin\Debug\net6.0\EmployeeDay2(empid auto generate).dll
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\bin\Debug\net6.0\EmployeeDay2(empid auto generate).pdb
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).csproj.AssemblyReference.cache
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).GeneratedMSBuildEditorConfig.editorconfig
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).AssemblyInfoInputs.cache
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).AssemblyInfo.cs
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).csproj.CoreCompileInputs.cache
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).dll
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\refint\EmployeeDay2(empid auto generate).dll
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).pdb
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\EmployeeDay2(empid auto generate).genruntimeconfig.cache
+D:\sandeep C# .net\EmployeeDay2(empid auto generate)\EmployeeDay2(empid auto generate)\obj\Debug\net6.0\ref\EmployeeDay2(empid auto generate).dll
