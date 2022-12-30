@@ -1,0 +1,15 @@
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\bin\Debug\net6.0\Employee(Multiple Inheritance).exe
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\bin\Debug\net6.0\Employee(Multiple Inheritance).deps.json
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\bin\Debug\net6.0\Employee(Multiple Inheritance).runtimeconfig.json
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\bin\Debug\net6.0\Employee(Multiple Inheritance).dll
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\bin\Debug\net6.0\Employee(Multiple Inheritance).pdb
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).csproj.AssemblyReference.cache
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).GeneratedMSBuildEditorConfig.editorconfig
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).AssemblyInfoInputs.cache
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).AssemblyInfo.cs
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).csproj.CoreCompileInputs.cache
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).dll
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\refint\Employee(Multiple Inheritance).dll
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).pdb
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\Employee(Multiple Inheritance).genruntimeconfig.cache
+D:\AndleebAtharvaData\MS.net\Employee(Multiple Inheritance)\obj\Debug\net6.0\ref\Employee(Multiple Inheritance).dll

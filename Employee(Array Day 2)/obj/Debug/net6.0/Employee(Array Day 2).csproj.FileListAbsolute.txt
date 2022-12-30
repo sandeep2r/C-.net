@@ -1,0 +1,15 @@
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).csproj.AssemblyReference.cache
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).GeneratedMSBuildEditorConfig.editorconfig
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).AssemblyInfoInputs.cache
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).AssemblyInfo.cs
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).csproj.CoreCompileInputs.cache
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\bin\Debug\net6.0\Employee(Array Day 2).exe
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\bin\Debug\net6.0\Employee(Array Day 2).deps.json
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\bin\Debug\net6.0\Employee(Array Day 2).runtimeconfig.json
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\bin\Debug\net6.0\Employee(Array Day 2).dll
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\bin\Debug\net6.0\Employee(Array Day 2).pdb
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).dll
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\refint\Employee(Array Day 2).dll
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).pdb
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\Employee(Array Day 2).genruntimeconfig.cache
+D:\AndleebAtharvaData\MS.net\Employee(Array Day 2)\obj\Debug\net6.0\ref\Employee(Array Day 2).dll
